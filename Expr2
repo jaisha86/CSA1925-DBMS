@@ -1,0 +1,3 @@
+Create database dbms_lab;
+use dbms_lab;
+show tables;
